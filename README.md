@@ -8,4 +8,4 @@ Micro-expressions (MEs) can reveal human's genuine emotions, which has led to in
 
 # How to get
 
-This database is publicly available for any academic use. To obtain it, please sign the license agreement and send a scanned copy to ustb_machuang@163.com.
+This database is publicly available for any academic use. To obtain it, please sign the release agreement and send a scanned copy to ustb_machuang@163.com.
